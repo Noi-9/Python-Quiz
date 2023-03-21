@@ -4,7 +4,7 @@ In this project, I made a short quiz with a user interface using Python language
 with two tables in the database one for the questions and correct answers and one for the options for each question.
 
 Now I will review some pictures of this project
-\n
+
 1- GUI:
 
 ![GUI AND QUIZ ](https://user-images.githubusercontent.com/95036158/226742566-a6ddc744-e947-4971-bcd3-80d4ce70f110.jpg)
